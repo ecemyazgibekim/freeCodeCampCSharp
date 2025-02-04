@@ -1,0 +1,7 @@
+D:\freeCodeCampC#\WorkingWithNumbers\WorkingWithNumbers\bin\Debug\WorkingWithNumbers.exe.config
+D:\freeCodeCampC#\WorkingWithNumbers\WorkingWithNumbers\bin\Debug\WorkingWithNumbers.exe
+D:\freeCodeCampC#\WorkingWithNumbers\WorkingWithNumbers\bin\Debug\WorkingWithNumbers.pdb
+D:\freeCodeCampC#\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\WorkingWithNumbers.csproj.AssemblyReference.cache
+D:\freeCodeCampC#\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+D:\freeCodeCampC#\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\WorkingWithNumbers.exe
+D:\freeCodeCampC#\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\WorkingWithNumbers.pdb
