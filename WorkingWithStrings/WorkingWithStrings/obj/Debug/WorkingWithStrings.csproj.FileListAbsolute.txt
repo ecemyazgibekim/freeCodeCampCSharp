@@ -1,0 +1,7 @@
+D:\freeCodeCampC#\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csproj.AssemblyReference.cache
+D:\freeCodeCampC#\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csproj.CoreCompileInputs.cache
+D:\freeCodeCampC#\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe.config
+D:\freeCodeCampC#\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe
+D:\freeCodeCampC#\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.pdb
+D:\freeCodeCampC#\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.exe
+D:\freeCodeCampC#\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.pdb
