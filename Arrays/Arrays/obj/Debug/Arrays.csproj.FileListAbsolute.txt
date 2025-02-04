@@ -1,0 +1,7 @@
+D:\freeCodeCampC#\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\freeCodeCampC#\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\freeCodeCampC#\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\freeCodeCampC#\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\freeCodeCampC#\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\freeCodeCampC#\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\freeCodeCampC#\Arrays\Arrays\obj\Debug\Arrays.pdb
