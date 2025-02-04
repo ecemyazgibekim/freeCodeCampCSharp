@@ -1,0 +1,7 @@
+D:\freeCodeCampC#\BuildingAMadLib\BuildingAMadLib\bin\Debug\BuildingAMadLib.exe.config
+D:\freeCodeCampC#\BuildingAMadLib\BuildingAMadLib\bin\Debug\BuildingAMadLib.exe
+D:\freeCodeCampC#\BuildingAMadLib\BuildingAMadLib\bin\Debug\BuildingAMadLib.pdb
+D:\freeCodeCampC#\BuildingAMadLib\BuildingAMadLib\obj\Debug\BuildingAMadLib.csproj.AssemblyReference.cache
+D:\freeCodeCampC#\BuildingAMadLib\BuildingAMadLib\obj\Debug\BuildingAMadLib.csproj.CoreCompileInputs.cache
+D:\freeCodeCampC#\BuildingAMadLib\BuildingAMadLib\obj\Debug\BuildingAMadLib.exe
+D:\freeCodeCampC#\BuildingAMadLib\BuildingAMadLib\obj\Debug\BuildingAMadLib.pdb
