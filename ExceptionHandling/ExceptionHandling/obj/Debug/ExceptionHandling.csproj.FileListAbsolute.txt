@@ -1,0 +1,7 @@
+D:\freeCodeCampC#\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+D:\freeCodeCampC#\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+D:\freeCodeCampC#\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+D:\freeCodeCampC#\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+D:\freeCodeCampC#\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\freeCodeCampC#\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+D:\freeCodeCampC#\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
