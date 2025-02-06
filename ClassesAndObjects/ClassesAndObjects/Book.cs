@@ -8,7 +8,7 @@ namespace ClassesAndObjects
 {
     internal class Book
     {
-        //kitabın ne olduğunu tanımlayacak nitelikler(attributes) yazacağız
+        //kitabın ne olduğunu tanımlayacak Propertylerini (özelliklerini) yazacağız
         public string title;
         public string author;
         public int pages;
