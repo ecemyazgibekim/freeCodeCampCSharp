@@ -30,6 +30,9 @@ namespace ClassesAndObjects
             Console.WriteLine("Book 1 Title:" + book1.title);
             Console.WriteLine("Book 2 Author:" + book2.author);
 
+
+            //Yani kitabımın ne özellikleri olacaksa . yazıp kullanacaksam onu gidip o classta(sınıfta) belirliyorum attribute olarak
+            //program.cs de ise  nesnemi yaratıyorum yani o classın instanceını üretiyorum ve değerler atayabiliyorum attributelara
         }
     }
 }
