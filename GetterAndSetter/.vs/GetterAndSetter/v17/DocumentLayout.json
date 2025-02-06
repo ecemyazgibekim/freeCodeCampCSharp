@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\freeCodeCampC#\\GetterAndSetter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A682F530-1AF6-4CCF-9E58-05E0C59F186A}|GetterAndSetter\\GetterAndSetter.csproj|d:\\freecodecampc#\\getterandsetter\\getterandsetter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A682F530-1AF6-4CCF-9E58-05E0C59F186A}|GetterAndSetter\\GetterAndSetter.csproj|solutionrelative:getterandsetter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A682F530-1AF6-4CCF-9E58-05E0C59F186A}|GetterAndSetter\\GetterAndSetter.csproj|d:\\freecodecampc#\\getterandsetter\\getterandsetter\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A682F530-1AF6-4CCF-9E58-05E0C59F186A}|GetterAndSetter\\GetterAndSetter.csproj|solutionrelative:getterandsetter\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\freeCodeCampC#\\GetterAndSetter\\GetterAndSetter\\Movie.cs",
+              "RelativeDocumentMoniker": "GetterAndSetter\\Movie.cs",
+              "ToolTip": "D:\\freeCodeCampC#\\GetterAndSetter\\GetterAndSetter\\Movie.cs",
+              "RelativeToolTip": "GetterAndSetter\\Movie.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwBsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:43:09.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\freeCodeCampC#\\GetterAndSetter\\GetterAndSetter\\Program.cs",
+              "RelativeDocumentMoniker": "GetterAndSetter\\Program.cs",
+              "ToolTip": "D:\\freeCodeCampC#\\GetterAndSetter\\GetterAndSetter\\Program.cs",
+              "RelativeToolTip": "GetterAndSetter\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:40:56.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

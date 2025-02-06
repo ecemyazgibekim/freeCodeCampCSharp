@@ -1,0 +1,7 @@
+D:\freeCodeCampC#\GetterAndSetter\GetterAndSetter\bin\Debug\GetterAndSetter.exe.config
+D:\freeCodeCampC#\GetterAndSetter\GetterAndSetter\bin\Debug\GetterAndSetter.exe
+D:\freeCodeCampC#\GetterAndSetter\GetterAndSetter\bin\Debug\GetterAndSetter.pdb
+D:\freeCodeCampC#\GetterAndSetter\GetterAndSetter\obj\Debug\GetterAndSetter.csproj.AssemblyReference.cache
+D:\freeCodeCampC#\GetterAndSetter\GetterAndSetter\obj\Debug\GetterAndSetter.csproj.CoreCompileInputs.cache
+D:\freeCodeCampC#\GetterAndSetter\GetterAndSetter\obj\Debug\GetterAndSetter.exe
+D:\freeCodeCampC#\GetterAndSetter\GetterAndSetter\obj\Debug\GetterAndSetter.pdb
