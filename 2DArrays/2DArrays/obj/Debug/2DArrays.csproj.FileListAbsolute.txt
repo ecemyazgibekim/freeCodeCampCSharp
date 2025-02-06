@@ -1,0 +1,7 @@
+D:\freeCodeCampC#\2DArrays\2DArrays\bin\Debug\2DArrays.exe.config
+D:\freeCodeCampC#\2DArrays\2DArrays\bin\Debug\2DArrays.exe
+D:\freeCodeCampC#\2DArrays\2DArrays\bin\Debug\2DArrays.pdb
+D:\freeCodeCampC#\2DArrays\2DArrays\obj\Debug\2DArrays.csproj.AssemblyReference.cache
+D:\freeCodeCampC#\2DArrays\2DArrays\obj\Debug\2DArrays.csproj.CoreCompileInputs.cache
+D:\freeCodeCampC#\2DArrays\2DArrays\obj\Debug\2DArrays.exe
+D:\freeCodeCampC#\2DArrays\2DArrays\obj\Debug\2DArrays.pdb
