@@ -1,0 +1,7 @@
+D:\freeCodeCampC#\StaticMethodsAndClasses\StaticMethodsAndClasses\bin\Debug\StaticMethodsAndClasses.exe.config
+D:\freeCodeCampC#\StaticMethodsAndClasses\StaticMethodsAndClasses\bin\Debug\StaticMethodsAndClasses.exe
+D:\freeCodeCampC#\StaticMethodsAndClasses\StaticMethodsAndClasses\bin\Debug\StaticMethodsAndClasses.pdb
+D:\freeCodeCampC#\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\StaticMethodsAndClasses.csproj.AssemblyReference.cache
+D:\freeCodeCampC#\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\StaticMethodsAndClasses.csproj.CoreCompileInputs.cache
+D:\freeCodeCampC#\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\StaticMethodsAndClasses.exe
+D:\freeCodeCampC#\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\StaticMethodsAndClasses.pdb
