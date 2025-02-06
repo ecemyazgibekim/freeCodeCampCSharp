@@ -1,0 +1,7 @@
+D:\freeCodeCampC#\StaticClassAttributes\StaticClassAttributes\bin\Debug\StaticClassAttributes.exe.config
+D:\freeCodeCampC#\StaticClassAttributes\StaticClassAttributes\bin\Debug\StaticClassAttributes.exe
+D:\freeCodeCampC#\StaticClassAttributes\StaticClassAttributes\bin\Debug\StaticClassAttributes.pdb
+D:\freeCodeCampC#\StaticClassAttributes\StaticClassAttributes\obj\Debug\StaticClassAttributes.csproj.AssemblyReference.cache
+D:\freeCodeCampC#\StaticClassAttributes\StaticClassAttributes\obj\Debug\StaticClassAttributes.csproj.CoreCompileInputs.cache
+D:\freeCodeCampC#\StaticClassAttributes\StaticClassAttributes\obj\Debug\StaticClassAttributes.exe
+D:\freeCodeCampC#\StaticClassAttributes\StaticClassAttributes\obj\Debug\StaticClassAttributes.pdb
