@@ -1,0 +1,7 @@
+D:\freeCodeCampC#\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\freeCodeCampC#\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\freeCodeCampC#\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\freeCodeCampC#\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\freeCodeCampC#\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\freeCodeCampC#\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\freeCodeCampC#\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
